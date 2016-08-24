@@ -1,6 +1,6 @@
 #Skatt
 
-Three js experiment and tribute for Iceland : https://hugosocie.github.io/skatt/
+Three js experiment and tribute to Iceland : https://hugosocie.github.io/skatt/
 
 ####Install
 
